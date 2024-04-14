@@ -14,3 +14,9 @@ My Expenses 是一款 Android 应用程序，旨在跟踪您的支出和收入�
  数据备份与恢复
  相同货币的所有账户的总体财务状况
  两个主题：光明与黑暗
+
+项目原作者:
+https://github.com/mtotschnig/MyExpenses
+
+下载:
+https://f-droid.org/repo/org.totschnig.myexpenses_727.apk
